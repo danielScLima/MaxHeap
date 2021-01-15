@@ -1,5 +1,7 @@
 MAX HEAP
 ====================
+Building with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/yj21f5u6u5tps8aw?svg=true)](https://ci.appveyor.com/project/DanielSLima/maxheap)
+
 Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/MaxHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/MaxHeap)
 
 This repository has a project with the implementation of a MAX HEAP.
